@@ -8,7 +8,6 @@ Controls:
    - SPACE for start or stop the game.
    - C for clear the whole grid.
    - Left & right arrow keys for increase or decrease the speed.
-   - S for save the grid.
+   - S for save the grid as file.
    - L for load another grid file (you need to write ".gol" extension to end of the file name).
    
-<img src="https://giphy.com/gifs/85NDN9Rc0WUWzCPYaK/giphy.gif" width="480" height="455" />
