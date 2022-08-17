@@ -11,5 +11,4 @@ Controls:
    - S for save the grid as file.
    - L for load another grid file (you need to write ".gol" extension to end of the file name).
 
-
-   
+![giphy](https://user-images.githubusercontent.com/63372647/185260709-d4071de8-6add-474d-9e13-b0643ac90eb7.gif)
