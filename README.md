@@ -2,7 +2,7 @@
 It's my Conway's Game of Life implementation.
 Written in C++ with SFML library.
 
-![2022-08-17-15-14-57](https://user-images.githubusercontent.com/63372647/185116813-c125f995-abb1-4837-a5f7-a0ed198d8783.gif)
+![tinywow_20220818_011919_4502199](https://user-images.githubusercontent.com/63372647/185256834-983261d8-709d-4d30-a382-be88c10ce70b.gif)
 
 Controls:
    - SPACE for start or stop the game.
@@ -11,4 +11,4 @@ Controls:
    - S for save the grid.
    - L for load another grid file (you need to write ".gol" extension to end of the file name).
    
-![2022-08-17-15-46-14](https://user-images.githubusercontent.com/63372647/185136738-7a96b2c3-47ea-408c-8d9d-e03795222e79.gif)
+![Uploading tinywow_20220818_015441_4502496.gif…]()
