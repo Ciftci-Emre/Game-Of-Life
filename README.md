@@ -11,5 +11,5 @@ Controls:
    - S for save the grid as file.
    - L for load another grid file (you need to write ".gol" extension to end of the file name).
 
-<img src="[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://user-images.githubusercontent.com/63372647/185256834-983261d8-709d-4d30-a382-be88c10ce70b.gif)" width="40" height="40" />
+<img src="https://user-images.githubusercontent.com/63372647/185256834-983261d8-709d-4d30-a382-be88c10ce70b.gif" width="400" height="500" />
    
