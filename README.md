@@ -11,4 +11,4 @@ Controls:
    - S for save the grid.
    - L for load another grid file (you need to write ".gol" extension to end of the file name).
    
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif(https://giphy.com/gifs/85NDN9Rc0WUWzCPYaK)" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif(https://giphy.com/gifs/85NDN9Rc0WUWzCPYaK)" width="400" height="700" />
