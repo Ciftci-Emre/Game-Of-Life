@@ -2,7 +2,7 @@
 It's my Conway's Game of Life implementation.
 Written in C++ with SFML library.
 
-![tinywow_20220818_011919_4502199](https://user-images.githubusercontent.com/63372647/185256834-983261d8-709d-4d30-a382-be88c10ce70b.gif width="400" height="790")
+![tinywow_20220818_011919_4502199](https://user-images.githubusercontent.com/63372647/185256834-983261d8-709d-4d30-a382-be88c10ce70b.gif)
 
 Controls:
    - SPACE for start or stop the game.
